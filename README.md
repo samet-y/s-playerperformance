@@ -1,4 +1,4 @@
-# 🎯 RedM Performance Monitor
+# 🎯 S-PlayerPerformance
 
 <div align="center">
 
