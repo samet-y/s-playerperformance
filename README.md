@@ -40,7 +40,7 @@
 ### 1. Download
 Clone or download this repository:
 ```bash
-git clone https://github.com/yourusername/redm-performance-monitor.git
+git clone https://github.com/samet-y/s-playerperformance.git
 ```
 
 ### 2. Install
@@ -48,9 +48,9 @@ Place the folder in your server's `resources` directory:
 ```
 server/
 └── resources/
-    └── performance-monitor/
-        ├── client/
-        ├── server/
+    └── s-playerperformance/
+        ├── client.lua
+        ├── server.lua
         ├── config.lua
         └── fxmanifest.lua
 ```
