@@ -2,11 +2,11 @@ fx_version 'cerulean'
 game 'rdr3'
 rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aware my resources *will* become incompatible once RedM ships.'
 
-name 'RedM Performance Monitor'
+name 'S-PlayerPerformance'
 author 'huzurweriN'
 description 'Open-source performance monitoring and Discord logging system for RedM'
 version '2.0.0'
-repository 'https://github.com/yourusername/redm-performance-monitor'
+repository 'https://github.com/samety/s-playerperformance'
 
 lua54 'yes'
 
