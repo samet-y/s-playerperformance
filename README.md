@@ -367,7 +367,7 @@ copies or substantial portions of the Software.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/samety/s-playerperformance/issues)
+- **Issues**: [GitHub Issues](https://github.com/samet-y/s-playerperformance/issues)
 
 ---
 
