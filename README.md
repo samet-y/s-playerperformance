@@ -302,7 +302,7 @@ Contributions are welcome! Here's how you can help:
 - 🎨 Improve Discord embed designs
 - 🚀 Add new performance metrics
 - 📱 Create web dashboard
-- 🔌 Framework integrations (ESX, QBCore)
+- 🔌 Standalone
 
 ---
 
