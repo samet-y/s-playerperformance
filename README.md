@@ -368,7 +368,6 @@ copies or substantial portions of the Software.
 ## 📞 Support
 
 - **Issues**: [GitHub Issues](https://github.com/samety/s-playerperformance/issues)
-- **Discord**: [Join our Discord](https://discord.gg/f5AEmhuCmc)
 
 ---
 
